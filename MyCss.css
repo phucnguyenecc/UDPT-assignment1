@@ -1,0 +1,61 @@
+.wrapper {
+            width :100%;
+            max-width : 960px;
+            margin : 0 auto;
+
+        }
+
+.banner {
+            width: 100%;
+            max-width : 960px;
+            text-align:center;
+
+        }
+.topmenu {
+            width: 100%;
+            max-width : 960px;
+            text-align: center;
+            height: 40px;
+
+        }   
+
+.content .primary {
+            width: 67%;
+            /*padding-right : 20px;*/
+            float : right;
+            display: inline;
+        }
+.content .secondary {
+            width: 30% ;
+            float : left;
+            display: inline;
+        }
+.content {
+            width: 100%;
+            max-width : 960px;
+            overflow : hidden;
+
+        }
+.footer {
+            width: 100%;
+            max-width : 960px;
+            text-align : center;
+            
+        }
+.body {
+            text-align: center;
+        }
+#header1 {
+            color :blue;
+            text-align: center;
+        }
+#dpinline {
+            display: inline;
+        }
+#img1 {
+            float : left;
+            width:50%;
+            border: 2px solid;
+            padding :1%;
+            margin :5%;
+        }

@@ -29,7 +29,7 @@ Yêu cầu **thiết kế**:
     * [x] Firefox
     * [x] Chrome
     * [x] Icon, màu sắc,...
-* [ ] Thiết kế responsive
+* [x] Thiết kế responsive
 
 Liệt kê các **yêu cầu nâng cao** đã thực hiện:
 

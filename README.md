@@ -1,10 +1,11 @@
 # BT-UDPT-1 - *Name of your app*
 
-**Name of your app** là một bài tập 1 tại môn UDPT.
+Web giới thiệu nhóm là một bài tập 1 tại môn UDPT.
 
-Thành viên: **Tên và mã số sinh viên thành viên**
+Thành viên: Huỳnh Nhật Nguyên -1212266
+			Nguyễn Ngọc Phúc - 1212293
 
-URL: **URL hosting của bài tập**
+URL: https://github.com/phucnguyenecc/UDPT-assignment1
 
 ## Yêu cầu
 
@@ -14,20 +15,20 @@ Yêu cầu **GIT**:
 * [ ] Sử dụng GIT trên 1 branch.
 * [ ] Sử dụng GIT theo Centralized Workflow.
 * [ ] Sử dụng GIT theo Feature Branch Workflow.
-* [ ] Sử dụng GIT theo Gitflow Workflow.
+* [x] Sử dụng GIT theo Gitflow Workflow.
 
 Yêu cầu **thiết kế**:
 
 * [ ] Thiết kế theo table.
-* [ ] Thiết kế với div.
-* [ ] Thiết kế nâng cao
-    * [ ] Navigation, header, footer, sidebar.
-    * [ ] Các hiệu ứng: hover, focus,...
-* [ ] Thiết kế chạy trên nhiều trình duyệt
-    * [ ] IE
-    * [ ] Firefox
-    * [ ] Chrome
-    * [ ] Icon, màu sắc,...
+* [x] Thiết kế với div.
+* [x] Thiết kế nâng cao
+    * [x] Navigation, header, footer, sidebar.
+    * [x] Các hiệu ứng: hover, focus,...
+* [x] Thiết kế chạy trên nhiều trình duyệt
+    * [x] IE
+    * [x] Firefox
+    * [x] Chrome
+    * [x] Icon, màu sắc,...
 * [ ] Thiết kế responsive
 
 Liệt kê các **yêu cầu nâng cao** đã thực hiện:

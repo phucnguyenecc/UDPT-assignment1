@@ -61,7 +61,8 @@ body {
             text-align: center;
             background-color: #f2f2f2;
             font-family: 'Segoe UI light', sans-serif;
- 
+            font-weight: 300;
+            max-width : 960px;
 
         }
 #header1 {
@@ -97,3 +98,13 @@ a:active {
     text-decoration: none; 
 
 }   
+
+
+ /*
+  * Responsive 
+   */
+
+   /* Table*/
+@media screen and (min-width: 600px) {
+    
+}
